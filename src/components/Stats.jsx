@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { fadeUp } from "../animations";
 
 const stats = [
-  "300+ Problems Solved",
+  "350+ Problems Solved",
   "10+ Projects Completed",
   "1+ Year Experience",
   "99% Learning Focus",

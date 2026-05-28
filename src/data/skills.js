@@ -1,5 +1,6 @@
 import {
   SiJavascript,
+  SiTypescript,
   SiReact,
   SiNodedotjs,
   SiExpress,
@@ -16,6 +17,7 @@ import { Brain } from "lucide-react";
 
 export const skills = [
   { name: "JavaScript", icon: SiJavascript, color: "#f7df1e" },
+  { name: "TypeScript", icon: SiTypescript, color: "#3178C6" },
   { name: "React", icon: SiReact, color: "#61dafb" },
   { name: "Node.js", icon: SiNodedotjs, color: "#3c873a" },
   { name: "Express.js", icon: SiExpress, color: "#ffffff" },

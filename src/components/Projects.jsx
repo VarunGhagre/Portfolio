@@ -7,7 +7,14 @@ const projects = [
     description:
       "A real-time chat application using MERN stack with Socket.io for instant messaging and authentication.",
     code: "https://github.com/VarunGhagre/Chat-App",
-    live: "#",
+    live: "https://chat-app-pi-ecru.vercel.app/",
+  },
+  {
+    title: "StayFinder 🏨",
+    description:
+      "Developed a full-stack MERN hotel booking platform with secure authentication, property listings, responsive UI, and real-time booking management.",
+    code: "https://github.com/VarunGhagre/stayfinder",
+    live: "https://stayfinder-blue.vercel.app/",
   },
   {
     title: "Social Media Application 📱",
@@ -42,7 +49,7 @@ const projects = [
     description:
       "A modern, animated, and responsive developer portfolio built with React, Tailwind CSS, and Framer Motion.",
     code: "https://github.com/varunghagre/portfolio",
-    live: "#",
+    live: "https://varun-portfolio-five.vercel.app/",
   },
 ];
 
